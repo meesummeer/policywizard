@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PolicyWizard – HIPAA Compliance Policy Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div id="branding">
+            <h2>PolicyWizard</h2>
+            <span class="subtitle">by CyberHealth Solutions</span>
+        </div>
+    </header>
+    <main>
+        <h1>HIPAA Compliance Policy Generator</h1>
+        <section id="wizard-container">
+            <!-- Form will be rendered here -->
+        </section>
+        <section id="policy-section" class="hidden">
+            <h2>Customized HIPAA Policy</h2>
+            <textarea id="policy-output" readonly></textarea>
+            <div style="margin-top:14px;">
+                <button id="copy-btn">Copy Policy</button>
+                <button id="download-btn">Download as TXT</button>
+            </div>
+        </section>
+    </main>
+    <footer>
+        Built by Meesum Mir &middot; CyberHealth Solutions &middot; 2025
+    </footer>
+    <script src="app.js"></script>
+</body>
+</html>
