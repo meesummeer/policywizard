@@ -43,7 +43,7 @@ Founder – CyberHealth Solutions
 ## 🌐 Live Demo
 
 - [Live PolicyWizard App](your-custom-domain-or-github-pages-link-here)
-- [GitHub Repo](your-repo-link-here)
+- [GitHub Repo](github.com/meesummeer/policywizard)
 
 ---
 
